@@ -1,0 +1,227 @@
+ /* https://coolors.co/palette/0d1b2a-1b263b-415a77-778da9-e0e1dd */
+ 
+body{
+    text-align: center;
+    background-image:linear-gradient(#1B263B,#778DA9)
+    
+}
+
+.head{
+    font-size: 90px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 40;
+    font-style: normal;
+    color:#0D1B2A;
+    text-shadow:3px 3px 7px #778DA9;
+    text-decoration: underline;
+    padding-top: 100px;
+    
+}
+.head2{
+    font-size: 70px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 40;
+    font-style: normal;
+    color:#0D1B2A;
+    text-shadow:3px 3px 7px #778DA9;
+    text-decoration: underline;
+    padding-top: 100px;
+    
+}
+.sechead{
+    color:#1B263B;
+    font-size: 30px;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+
+#me{
+    width:800px;
+    height: 450px;
+    padding-bottom:40px;
+    padding-top:40px;
+    padding-right:40px;
+    padding-left:40px;
+    border-radius:100px;
+   
+   
+
+}
+
+#aboutMe{
+    color:#1B263B;
+    font-weight: bold;
+    font-size:22px;
+    padding-left:150px;
+    padding-right:150px;
+   
+}
+
+.link{
+    display:inline;
+    padding-left:30px;
+    padding-right:30px;
+    Font-size:30px;
+    color:#0D1B2A;
+    left:0px;
+    
+}
+
+.menu{
+    background-color:#E0E1DD;
+    height: 40px;
+    border-radius:10px;
+    top:0px;
+    left:0px;
+    width: 100%;
+    margin-top: 0px;
+    z-index: 10;
+    position:fixed;
+    opacity: 0.5;
+}   
+
+a:visited{
+    color:#0D1B2A;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a:link{
+    color:#0D1B2A;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.hobbyfun{
+    font-size:22px;
+    color: #E0E1DD;
+    padding-left: 150px;
+    padding-right: 150px;
+    
+}
+
+#hobbyPics{
+    font-size: 22px;
+    color:#E0E1DD ;
+    border-radius:5px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 30px;
+    
+}
+
+#legoSets{
+    width:500px;
+    border-radius:50px;
+    height:300px;    
+    padding-right:15px;
+    padding-left:15px;
+}
+
+#lamborghini{
+    width:500px;
+    border-radius:50px;
+    height:300px;   
+    padding-left:15px;
+    padding-right:15px;
+}
+#weather{
+    width:500px;
+    border-radius:50px;
+    height:300px;
+    padding-left:15px;
+    padding-right:15px;
+    
+}
+.game img{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+.games{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-evenly;
+}
+.game{
+   padding:30px;
+}
+.game h2{
+    color:#E0E1DD;
+}
+#contact1{
+    font-size:30px;
+    color:#1B263B;
+    text-decoration:underline;
+    
+}
+#phoneNumber{
+    display:inline;
+    color:#E0E1DD;
+    font-size:22px;
+    margin-left: 50px;
+}
+#email{
+    color:#E0E1DD;
+    font-size:22px;
+    display:inline;
+   margin-left: 50px;
+}
+iframe{
+   width:82%;
+   height:500px;
+   border-radius:10px;
+   margin-top: 50px;
+  
+}
+#c{
+    display:flex;
+    justify-content:space-evenly;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#github{
+    display:inline;
+    color:#E0E1DD;
+    font-size:22px;
+    margin-left: 50px;
+}
+
+.in{
+    color:#778DA9;
+    font-size: 22px;
+}
+
+#btn1, #btn2, #btn3, #btn4 {
+    padding: 10px;
+    background-color: #0D1B2A;
+    color:#E0E1DD;
+    border-radius: 10px;
+    font-size:20px; 
+    width: 200px;
+}   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* find a picture that is going to go perfect with this theme you have in website */
+/* find the fonts you want as your heading and also fonts for your entire website */
